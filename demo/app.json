@@ -1,11 +1,12 @@
 {
   "pages":[
+    "pages/index/index",
     "pages/home/home",
     "pages/detail/detail"
   ],
   "window":{
     "navigationBarBackgroundColor": "#404040",
-    "navigationBarTitleText": "豆瓣电影",
+    "navigationBarTitleText": "豆瓣Test",
     "navigationBarTextStyle":"#fff",
     "enablePullDownRefresh" : false
   }

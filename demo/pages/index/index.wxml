@@ -1,0 +1,1 @@
+<button bindtap="jumpToMovie">豆瓣电影</button>
